@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monsters-facebook/static/css/main.d7d4ef0f.css",
+    "main.js": "/Monsters-facebook/static/js/main.680aadb7.js",
+    "static/js/787.e9e96073.chunk.js": "/Monsters-facebook/static/js/787.e9e96073.chunk.js",
+    "index.html": "/Monsters-facebook/index.html",
+    "main.d7d4ef0f.css.map": "/Monsters-facebook/static/css/main.d7d4ef0f.css.map",
+    "main.680aadb7.js.map": "/Monsters-facebook/static/js/main.680aadb7.js.map",
+    "787.e9e96073.chunk.js.map": "/Monsters-facebook/static/js/787.e9e96073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d4ef0f.css",
+    "static/js/main.680aadb7.js"
+  ]
+}
